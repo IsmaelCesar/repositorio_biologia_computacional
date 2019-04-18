@@ -1,2 +1,2 @@
-# repositorio_biologia_computacional
+# Biologia Comtacional
 Repositório dedicado às atividades da disciplina Biologia Computcional
